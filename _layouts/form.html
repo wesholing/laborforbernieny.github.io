@@ -10,7 +10,7 @@ layout: default
                         <div class="col">
                             <h1 class="text-center">{{ page.title }}</h1>
                             <div class="content">{{ content }}</div>
-                            {% if page["form_url" && page["form_id"] %}
+                            {% if page["form_url"] && page["form_id"] %}
                             <link href="https://actionnetwork.org/css/style-embed-v3.css" rel="stylesheet" type="text/css">
                             <script src="{{ page.form_url }}"></script>
                             <div id="{{ page.form_id }}" style="width: 100%">
