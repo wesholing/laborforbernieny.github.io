@@ -1,0 +1,10 @@
+---
+title: New York Labor for Bernie
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
