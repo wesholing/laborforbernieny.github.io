@@ -10,9 +10,11 @@ layout: default
                         <div class="col">
                             <h1 class="text-center">{{ page.title }}</h1>
                             <div class="content">{{ content }}</div>
-                            {% if page["calendar_src"] %}
-                            <iframe src="https://calendar.google.com/calendar/embed?src={{ page.calendar_src }}&ctz=America%2FLos_Angeles" style="border: 0" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
-                            {% endif %}
+                            <div class="calendar my-4">
+                              {% if page["calendar_src"] %}
+                              <iframe src="https://calendar.google.com/calendar/embed?src={{ page.calendar_src }}&ctz=America%2FLos_Angeles" style="border: 0" width="100%" height="100%" frameborder="0" scrolling="no"></iframe>
+                              {% endif %}
+                            </div>
                         </div>
                     </div>
                 </div>
