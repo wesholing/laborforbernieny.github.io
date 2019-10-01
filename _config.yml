@@ -10,14 +10,14 @@ collections:
     output: true
 toc:
 - page: Home
-  url: /
+  url: "/"
 - page: Events
-  url: /events
+  url: "/events"
 - page: Resources
-  url: /resources
+  url: "/resources"
 - page: Volunteer
-  url: /volunteer
+  url: "/volunteer"
 - page: Contact
-  url: /contact
+  url: "/contact"
 - page: Donate
-  url: /donate
+  url: "/donate"
