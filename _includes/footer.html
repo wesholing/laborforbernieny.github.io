@@ -16,18 +16,18 @@
           <a href="https://twitter.com/nylabor4bernie?lang=en" class="mx-2"><i class="fab fa-twitter" aria-hidden="true"></i></a>
           <a href="https://www.facebook.com/NYLaborForBernie/" class="mx-2"><i class="fab fa-facebook" aria-hidden="true"></i></a>
         </p>
-        <p><a href="#">nylaborforbernie@gmail.com</a></p>
+        <p><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
       </div>
 
       <div class="col-12 col-sm-4 mt-4 mt-sm-0 text-right">
         <div class="h3"><strong>About Us</strong></div>
-        <p>New York Labor for Bernie is ...</p>
+        <p>{{ site.description}}</p>
       </div>
     </div>
 
     <div class="row mt-5">
       <div class="col text-center">
-        © 2019 Labor for Bernie. All Rights Reserved
+        © {{ "now" | date: "%Y" }} {{ site.parent }}. All Rights Reserved
       </div>
     </div>
   </div>
