@@ -29,4 +29,4 @@ features:
 layout: home
 ---
 
-1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.
