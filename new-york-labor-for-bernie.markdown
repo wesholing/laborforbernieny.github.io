@@ -11,19 +11,7 @@ cta:
   link_copy: Call to Action
   link_href: "#"
 features:
-- '1':
-    name: Feature 0
-    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-      nunc eget rutrum finibus.
-    link_copy: Read more
-    link_href: "#"
-  '2':
-    name: Feature 2
-    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-      nunc eget rutrum finibus.
-    link_copy: Read more
-    link_href: "#"
-  '3':
+- feature:
     name: Header 3
     desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
       nunc eget rutrum finibus.
