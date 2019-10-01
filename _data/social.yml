@@ -3,3 +3,5 @@ links:
   url: https://twitter.com/nylabor4bernie?lang=en
 - source: facebook
   url: https://www.facebook.com/NYLaborForBernie/
+
+# source value should equal the Font Awesome class names: https://fontawesome.com/icons
