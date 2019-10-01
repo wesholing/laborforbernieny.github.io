@@ -8,16 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-toc:
-- page: Home
-  url: "/"
-- page: Events
-  url: "/events"
-- page: Resources
-  url: "/resources"
-- page: Volunteer
-  url: "/volunteer"
-- page: Contact
-  url: "/contact"
-- page: Donate
-  url: "/donate"
