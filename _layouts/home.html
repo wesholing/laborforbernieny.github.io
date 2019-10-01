@@ -51,9 +51,9 @@
 {{ item }}
       <div class="col-12 col-md-8 m-auto col-lg-4">
         <div class="fdb-box fdb-touch">
-          <h2>{{ feature.name }}</h2>
-          <div>{{ feature.desc_text }}</div>
-          <p><a href="{{ feature.link_href }}">{{ feature.link_copy }}</a></p>
+          <h2>{{ item.feature.name }}</h2>
+          <div>{{ item.feature.desc_text }}</div>
+          <p><a href="{{ item.feature.link_href }}">{{ item.feature.link_copy }}</a></p>
         </div>
       </div>
       {% endfor %}
