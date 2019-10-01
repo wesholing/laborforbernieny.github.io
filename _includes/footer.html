@@ -13,10 +13,19 @@
       <div class="col-12 col-sm-4 mt-4 mt-sm-0 text-center">
         <div class="h3"><strong>Contact</strong></div>
         <p class="lead">
+          {% if site.data.social %}
+          {% for item in site.data.social.links %}
+          <a href="{{ item.url }}" class="mx-2"><i class="fab fa-{{ item.source }}" aria-hidden="true"></i></a>
+          {% endfor %}
+          {% endif %}
+<!--
           <a href="https://twitter.com/nylabor4bernie?lang=en" class="mx-2"><i class="fab fa-twitter" aria-hidden="true"></i></a>
           <a href="https://www.facebook.com/NYLaborForBernie/" class="mx-2"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+-->
         </p>
+        {% if site.contact_email %}
         <p><a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a></p>
+        {% endif %}
       </div>
 
       <div class="col-12 col-sm-4 mt-4 mt-sm-0 text-right">
