@@ -12,23 +12,23 @@ value:
     et lectus. Pellentesque tincidunt ut mauris a pretium.
 features:
 - feature:
-    name: Feature 1
-    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-      nunc eget rutrum finibus.
-    link_copy: Read more
-    link_href: "#"
+    name: Resources
+    desc_text: Download fliers, sample resolutions, and other documents to help spread
+      the word within your local.
+    link_copy: Get resources
+    link_href: "/resources"
 - feature:
-    name: Feature 2
-    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-      nunc eget rutrum finibus.
-    link_copy: Read more
-    link_href: "#"
+    name: Volunteer
+    desc_text: Get involved with Labor for Bernie and join the movement to strengthen
+      working-class power in this country.
+    link_copy: Volunteer
+    link_href: "/volunteer"
 - feature:
-    name: Feature 3
-    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-      nunc eget rutrum finibus.
-    link_copy: Read more
-    link_href: "#"
+    name: Donate
+    desc_text: Your funds help make our work possible. Give today to help us connect
+      with other locals in New York.
+    link_copy: Donate
+    link_href: "/donate"
 Field name: 
 layout: home
 ---
