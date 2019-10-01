@@ -26,6 +26,9 @@ features:
       nunc eget rutrum finibus.
     link_copy: Read more
     link_href: "#"
+cta:
+  link_copy: Call to Action
+  link_href: "#"
 layout: home
 ---
 
