@@ -10,11 +10,11 @@
       <div class="collapse navbar-collapse" id="navbarNav11">
         <ul class="navbar-nav ml-auto">
           {% for item in site.data.toc.links %}
-          {% if !forloop.last %}
+          {% if forloop.last == false %}
           <li class="nav-item{% if item.url == page.path %} active{% endif %}">
           {% endif %}
-            <a class="nav-link" href="{{ item.url }}">{{ item.page }}{% if item.url == page.path %} <span class="sr-only">(current)</span>{% endif %}</a>
-          {% if !forloop.last %}
+            <a class="{% if forloop.last == false %}nav-link{% else %}btn btn-outline-light ml-md-3{% endif %}" href="{{ item.url }}">{{ item.page }}{% if item.url == page.path %} <span class="sr-only">(current)</span>{% endif %}</a>
+          {% if forloop.last == false %}
           </li>
           {% endif %}
           {% endfor %}
