@@ -37,8 +37,8 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col col-md-8 text-center">
-        <h2>{{ value.header }}</h1>
-        <div class="lead">{{ value.desc_text }}</div>
+        <h2>{{ page.value.header }}</h1>
+        <div class="lead">{{ page.value.desc_text }}</div>
       </div>
     </div>
   </div>
@@ -50,9 +50,9 @@
       {% for item in features %}
       <div class="col-12 col-md-8 m-auto col-lg-4">
         <div class="fdb-box fdb-touch">
-          <h2>{{ item.name }}</h2>
-          <div>{{ item.desc_text }}</div>
-          <p><a href="{{ item.link_href }}">{{ item.link_copy }}</a></p>
+          <h2>{{ page.item.name }}</h2>
+          <div>{{ page.item.desc_text }}</div>
+          <p><a href="{{ page.item.link_href }}">{{ page.item.link_copy }}</a></p>
         </div>
       </div>
       {% endfor %}
