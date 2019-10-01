@@ -7,6 +7,9 @@ value:
   desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
     nunc eget rutrum finibus, leo mi ultricies arcu, vulputate aliquam sapien elit
     et lectus. Pellentesque tincidunt ut mauris a pretium.
+cta:
+  link_copy: Call to Action
+  link_href: "#"
 features:
 - '1':
     name: Feature 1
@@ -29,4 +32,4 @@ features:
 layout: home
 ---
 
-1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.
