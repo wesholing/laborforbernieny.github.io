@@ -10,6 +10,8 @@
       <div class="collapse navbar-collapse" id="navbarNav11">
         <ul class="navbar-nav ml-auto text-center">
           {% for item in site.data.toc.links %}
+<!-- item.url: {% item.url %} -->
+<!-- page.path: {% page.path %} -->
           {% if forloop.last == false %}
           <li class="nav-item{% if item.url == page.path %} active{% endif %}">
           {% endif %}
