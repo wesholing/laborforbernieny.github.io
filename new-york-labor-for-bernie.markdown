@@ -3,8 +3,8 @@ title: New York Labor for Bernie
 date: 2019-09-30 21:21:00 -04:00
 permalink: "/index"
 cta:
-  link_copy: Call to Action
-  link_href: "#"
+  link_copy: Join Us
+  link_href: events
 value:
   header: Lorem Ipsum
   desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
@@ -29,7 +29,8 @@ features:
       nunc eget rutrum finibus.
     link_copy: Read more
     link_href: "#"
+Field name: 
 layout: home
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.
+Labor unions across New York are uniting behind Bernie Sanders to strengthen workplace democracy across the country.
