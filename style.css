@@ -1,6 +1,9 @@
 .display-block {
 	display: block;
 }
+.nav-link.active {
+	color: var(--white);
+}
 .calendar {
 	height: 1px;
 	min-height: 600px;
