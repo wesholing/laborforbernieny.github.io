@@ -23,7 +23,7 @@
               <h1 class="h2"><span class="display-block">New York </span><span class="display-block">Labor for Bernie</span></h1>
               <div class="lead">{{ content }}</div>
 
-              <p class="h3 mt-4"><a href="#">Call to Action <i class="fas fa-angle-right"></i></a></p>
+              <p class="h3 mt-4"><a href="{{ cta.link_href }}">{{ cta.link_copy }} <i class="fas fa-angle-right"></i></a></p>
             </div>
           </div>
         </div>
@@ -37,8 +37,8 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col col-md-8 text-center">
-        <h2>Lorem Ipsum</h1>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus, leo mi ultricies arcu, vulputate aliquam sapien elit et lectus. Pellentesque tincidunt ut mauris a pretium.</p>
+        <h2>{{ value.header }}</h1>
+        <div class="lead">{{ value.desc_text }}</div>
       </div>
     </div>
   </div>
@@ -47,27 +47,15 @@
 <section class="fdb-block">
   <div class="container">
     <div class="row text-left">
+      {% for item in features %}
       <div class="col-12 col-md-8 m-auto col-lg-4">
         <div class="fdb-box fdb-touch">
-          <h2>Feature 1</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.</p>
-          <p><a href="#">Read more</a></p>
+          <h2>{{ item.name }}</h2>
+          <div>{{ item.desc_text }}</div>
+          <p><a href="{{ item.link_href }}">{{ item.link_copy }}</a></p>
         </div>
       </div>
-      <div class="col-12 col-md-8 m-auto col-lg-4 pt-5 pt-lg-0">
-        <div class="fdb-box fdb-touch">
-          <h2>Feature 2</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.</p>
-          <p><a href="#">Read more</a></p>
-        </div>
-      </div>
-      <div class="col-12 col-md-8 m-auto col-lg-4 pt-5 pt-lg-0">
-        <div class="fdb-box fdb-touch">
-          <h2>Feature 3</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, nunc eget rutrum finibus.</p>
-          <p><a href="#">Read more</a></p>
-        </div>
-      </div>
+      {% endfor %}
     </div>
   </div>
 </section>
