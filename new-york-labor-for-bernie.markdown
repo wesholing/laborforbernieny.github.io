@@ -12,7 +12,7 @@ cta:
   link_href: "#"
 features:
 - '1':
-    name: Feature 1
+    name: Feature 0
     desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
       nunc eget rutrum finibus.
     link_copy: Read more
