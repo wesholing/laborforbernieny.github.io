@@ -12,7 +12,19 @@ cta:
   link_href: "#"
 features:
 - feature:
-    name: Header 3
+    name: Feature 1
+    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
+      nunc eget rutrum finibus.
+    link_copy: Read more
+    link_href: "#"
+- feature:
+    name: Feature 2
+    desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
+      nunc eget rutrum finibus.
+    link_copy: Read more
+    link_href: "#"
+- feature:
+    name: Feature 3
     desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
       nunc eget rutrum finibus.
     link_copy: Read more
