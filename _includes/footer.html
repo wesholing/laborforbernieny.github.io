@@ -36,7 +36,7 @@
 
     <div class="row mt-5">
       <div class="col text-center">
-        © {{ "now" | date: "%Y" }} {{ site.parent }}. All Rights Reserved
+        © {{ "now" | date: "%Y" }} {% if site.parent_url %}<a href="{{ site.parent_url }}" title="{{ site.parent }}">{% endif %}{{ site.parent }}{% if site.parent_url %}</a>{% endif %}. All Rights Reserved
       </div>
     </div>
   </div>

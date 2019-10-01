@@ -1,5 +1,7 @@
 ---
 title: New York Labor for Bernie
+parent: Labor for Bernie
+parent_url: https://laborforbernie2020.org/
 timezone: America/New_York
 collections:
   posts:
@@ -8,6 +10,5 @@ collections:
   uploads:
     title: Uploads
     output: true
-parent: Labor for Bernie
 contact_email: nylaborforbernie@gmail.com
 description: TKTK
