@@ -29,7 +29,7 @@ features:
       with other locals in New York.
     link_copy: Donate
     link_href: "/donate"
-Field name: 
+override_title: true
 layout: home
 ---
 
