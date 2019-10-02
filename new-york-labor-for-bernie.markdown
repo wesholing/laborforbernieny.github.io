@@ -30,6 +30,8 @@ features:
     link_copy: Donate
     link_href: "/donate"
 override_title: New York Labor for Bernie
+meta_desc: New York Labor for Bernie is engaging with New York locals to support the
+  most pro-worker candidate in the race, Bernie Sanders.
 layout: home
 ---
 
