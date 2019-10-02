@@ -2,6 +2,8 @@
 title: Resources
 date: 2019-09-27 17:18:00 -04:00
 permalink: "/resources"
+meta_desc: Download fliers, sample resolutions, and other documents to help spread
+  the word within your local.
 layout: basic
 ---
 
