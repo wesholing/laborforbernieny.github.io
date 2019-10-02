@@ -1,1 +1,1 @@
-    <title>{{page.title | default: New York Labor for Bernie }}</title>
+    <title>{% if page.override_title == true %}{{ page.title }}{% else %}{{page.title | default: New York Labor for Bernie }} - {{ site.title }}{% endif %}</title>
