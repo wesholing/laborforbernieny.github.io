@@ -1,5 +1,5 @@
 ---
-title: New York Labor for Bernie
+title: Home
 date: 2019-09-30 21:21:00 -04:00
 permalink: "/index"
 cta:
@@ -29,7 +29,7 @@ features:
       with other locals in New York.
     link_copy: Donate
     link_href: "/donate"
-override_title: true
+override_title: New York Labor for Bernie
 layout: home
 ---
 
