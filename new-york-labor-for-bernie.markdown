@@ -2,6 +2,7 @@
 title: Home
 date: 2019-09-30 21:21:00 -04:00
 permalink: "/index"
+position: 0
 cta:
   link_copy: Join Us
   link_href: events
