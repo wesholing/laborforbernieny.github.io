@@ -9,7 +9,7 @@ layout: default
                     <div class="row">
                         <div class="col">
                             <h1 class="text-center">{{ page.title }}</h1>
-                            <div class="content{% if page.calendar_src contains "calendar" %} calendar{% endif %}">{{ content }}</div>
+                            <div class="content">{{ content }}</div>
                             {% if page["form_url"] && page["form_id"] %}
                             <link href="https://actionnetwork.org/css/style-embed-v3.css" rel="stylesheet" type="text/css">
                             <script src="{{ page.form_url }}"></script>
