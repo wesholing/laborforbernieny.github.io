@@ -8,4 +8,4 @@ meta_desc: We're active all across New York. Find the event closest to you!
 layout: events
 ---
 
-TKTK
+We are trying to reach as many union members as possible in this campaign. See below for a list of events that Labor for Bernie will be attending. We'll be talking to people about what makes Bernie Sanders the true labor candidate, and why he deserves the endorsement of New York unions. Learn how you can [help out at an event](/events). 
