@@ -8,4 +8,4 @@ meta_desc: Contact us to find out how you can help or mobilize your local to sup
 layout: basic
 ---
 
-TKTK
+We want to hear from you. Questions about how to start organizing for Bernie Sanders in your union? Upcoming events in your union that we should know about? Friends and coworkers we should talk to? Let us know.
