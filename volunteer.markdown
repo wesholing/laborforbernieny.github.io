@@ -10,4 +10,4 @@ meta_desc: New York Labor for Bernie runs on volunteer support. Find how how you
 layout: form
 ---
 
-TKTK
+To build the political revolution, we need to connect Bernie's supporters across workplaces and unions. Fill out the form below to get involved with New York Labor for Bernie and start organizing alongside the Sanders wing of the labor movement.
