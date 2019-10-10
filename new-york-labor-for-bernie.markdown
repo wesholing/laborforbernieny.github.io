@@ -37,8 +37,8 @@ features:
     link_copy: Donate
     link_href: "/donate"
 override_title: New York Labor for Bernie
-meta_desc: New York Labor for Bernie is engaging with New York locals to support the
-  most pro-worker candidate in the race, Bernie Sanders.
+meta_desc: New York Labor for Bernie is an independent campaign to elect Bernie Sanders
+  in 2020 by building a mass movement of union members and labor activists.
 layout: home
 ---
 
