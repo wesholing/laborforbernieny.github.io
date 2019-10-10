@@ -2,15 +2,25 @@
 title: Home
 date: 2019-09-30 21:21:00 -04:00
 permalink: "/index"
+published: false
 position: 0
 cta:
   link_copy: Join Us
   link_href: events
 value:
-  header: Lorem Ipsum
-  desc_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus,
-    nunc eget rutrum finibus, leo mi ultricies arcu, vulputate aliquam sapien elit
-    et lectus. Pellentesque tincidunt ut mauris a pretium.
+  header: Who We Are
+  desc_text: "We know Bernie Sanders is the best candidate for union members and and
+    working people in this country, but his road to the White House is going to be
+    much more difficult without the support of unions. In order to get that support,
+    he'll need tens of thousands of union members speaking up and advocating for an
+    endorsement. \n\nBernie knows that it's not just about winning an election, but
+    about building a grassroots political revolution. Labor for Bernie's role is to
+    take that political revolution to our unions and our workplaces. We need an organized
+    force outside of the White House and Congress to win meaningful change. Imagine
+    a well organized network of hundreds of thousands of union members ready to fight
+    — in their state, in their union, with their employer — for Medicare for All,
+    a Green New Deal, and the Workplace Democracy Plan. That’s what we need to build,
+    and that’s what New York Labor for Bernie is building."
 features:
 - feature:
     name: Resources
@@ -36,4 +46,4 @@ meta_desc: New York Labor for Bernie is engaging with New York locals to support
 layout: home
 ---
 
-Labor unions across New York are uniting behind Bernie Sanders to strengthen workplace democracy across the country.
+New York Labor for Bernie is the New York chapter of [Labor for Bernie](https://laborforbernie2020.org), an independent campaign to elect Bernie Sanders in 2020 by building a mass movement of union members and labor activists.
