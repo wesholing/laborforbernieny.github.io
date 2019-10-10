@@ -9,10 +9,13 @@ cta:
 value:
   header: Who We Are
   desc_text: |-
-    We know Bernie Sanders is the best candidate for union members and and working people in this country, but his road to the White House is going to be much more difficult without the support of unions. In order to get that support, he’ll need tens of thousands of union members speaking up and advocating for an endorsement.
+    We know Bernie Sanders is the best candidate for union members and working people in this country, but his road to the White House is going to be much more difficult without the support of unions. In order to get that support, he’ll need tens of thousands of union members speaking up and advocating for an endorsement.
     {: .lead }
 
-    Bernie knows that it’s not just about winning an election, but about building a grassroots political revolution. Labor for Bernie's role is to take that political revolution to our unions and our workplaces. We need an organized force outside of the White House and Congress to win meaningful change. Imagine a well organized network of hundreds of thousands of union members ready to fight — in their state, in their union, with their employer — for Medicare for All, a Green New Deal, and the Workplace Democracy Plan. That’s what we need to build, and that’s what New York Labor for Bernie is building.
+    Bernie knows that it’s not just about winning an election, but about building a grassroots political revolution. Labor for Bernie's role is to take that political revolution to our unions and our workplaces. We need an organized force outside of the White House and Congress to win meaningful change.
+    {: .lead }
+
+    Imagine a well organized network of hundreds of thousands of union members ready to fight — in their state, in their union, with their employer — for Medicare for All, a Green New Deal, and the Workplace Democracy Plan. That’s what we need to build, and that’s what New York Labor for Bernie is building.
     {: .lead }
 features:
 - feature:
@@ -34,8 +37,8 @@ features:
     link_copy: Donate
     link_href: "/donate"
 override_title: New York Labor for Bernie
-meta_desc: New York Labor for Bernie is engaging with New York locals to support the
-  most pro-worker candidate in the race, Bernie Sanders.
+meta_desc: New York Labor for Bernie is an independent campaign to elect Bernie Sanders
+  in 2020 by building a mass movement of union members and labor activists.
 layout: home
 ---
 
