@@ -15,7 +15,7 @@ value:
     Bernie knows that it’s not just about winning an election, but about building a grassroots political revolution. Labor for Bernie's role is to take that political revolution to our unions and our workplaces. We need an organized force outside of the White House and Congress to win meaningful change.
     {: .lead }
 
-    Imagine a well organized network of hundreds of thousands of union members ready to fight — in their state, in their union, with their employer — for Medicare for All, a Green New Deal, and the Workplace Democracy Plan. That’s what we need to build, and that’s what New York Labor for Bernie is building.
+    Imagine a well organized network of hundreds of thousands of union members ready to fight — in their state, in their union, with their employer — for Medicare for All, a Green New Deal, and the [Workplace Democracy Plan](https://berniesanders.com/issues/workplace-democracy/). That’s what we need to build, and that’s what New York Labor for Bernie is building.
     {: .lead }
 features:
 - feature:
