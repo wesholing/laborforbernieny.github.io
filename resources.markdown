@@ -8,6 +8,12 @@ meta_desc: Download fliers, sample resolutions, and other documents to help spre
 layout: basic
 ---
 
+## Bernie's Plan for Labor
+
+Bernie's Workplace Democracy Plan is the most ambitious labor plan in this race. Bernie is committed to strengthening the labor movement by growing unions, eliminating barriers for workers to form a union, and increasing the voice of workers in workplace decisions.
+
+[See the plan](https://berniesanders.com/issues/workplace-democracy/)
+
 ## National Labor for Bernie Flier
 
 8.5″ x 11″ printable flier detailing why Bernie is the best candidate for the working class and the labor movement.
